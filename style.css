@@ -1,0 +1,16 @@
+:root{
+    --brancao:#ffffff;
+    --cinzinha:#C0C0C0;
+    --botao-azul:#167bf7;
+    --bg:#00030c;
+}
+
+body{
+    background-color: var(--bg);
+    color: var(--brancao);
+}
+
+* {
+    margin:0;
+    padding:0;
+}
