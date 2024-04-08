@@ -23,12 +23,20 @@ body{
 
 .container{
     height: 100vh;
+    display: grid;
+    grid-template-columns: 20%;
 }
 
-.container__botao {
+.botao {
     background-color: var(--botao-azul);
     border-radius: 5px;
     padding: 1em;
     color: #ffffff;
-    display: block;
+}
+
+.botao- {
+    background-color: transparent;
+    border-radius: 5px;
+    border: 2px solid white;
+    color: #ffffff;
 }
