@@ -40,6 +40,7 @@ body{
 .botao- {
     background-color: transparent;
     border-radius: 5px;
+    padding: 1em;
     border: 2px solid white;
     color: #ffffff;
 }
