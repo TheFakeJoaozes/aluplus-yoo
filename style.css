@@ -67,3 +67,23 @@ body{
 .container__caixa {
     margin: 0 6em;
 }
+
+.segundo_imagem {
+    width: 80%;
+}
+
+.segundo {
+    align-items: center; 
+    margin: 0 10em;
+}
+
+.descricao__titulo {
+    size: 48px;
+    font-weight: 700;
+    color: white;
+    margin-bottom: 0.1em;
+}
+
+.descricao__texto {
+    color: var(--cinzinha)
+}
