@@ -18,7 +18,7 @@ body{
     padding:0;
 }
 
-.main{
+.primeiro{
     background-image: url(img/Background.png);
     background-repeat: no-repeat;
     background-size: contain; 
