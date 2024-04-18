@@ -22,6 +22,8 @@ body{
     background-image: url(img/Background.png);
     background-repeat: no-repeat;
     background-size: contain; 
+    align-items: center;
+    text-align: center;
 }
 
 .container{
@@ -53,6 +55,10 @@ body{
     color:var(--cinzinha);
 }
 
+.container__titulo{
+    size: 28px;
+    font-weight: 700;
+}
 
 .container__imagem {
     margin: 1em 0 2em 0;
